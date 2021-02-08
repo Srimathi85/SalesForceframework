@@ -1,0 +1,299 @@
+ChromeDriver: chrome on WINDOWS (c9f1560cf4a3f90693c31eb22d20b268)
+App is launching
+Salesforce  is launched
+2021-02-07 11:03:40 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (3fd026a19ec8b3412f858de77abf8539)
+2021-02-07 11:03:40 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:03:42 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:05:10 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (7bd838c1fb06019ee47632d11fe023ab)
+2021-02-07 11:05:10 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:05:13 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:14:10 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (6b38ef3f039980a6ecd9deac328de060)
+2021-02-07 11:14:10 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:14:11 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:18:22 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (8f14c433a4c794e3c9901bcd025ef59b)
+2021-02-07 11:18:22 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:18:23 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:20:11 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (e60fde13895605303c11aae330cd19c9)
+2021-02-07 11:20:11 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:20:12 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:22:33 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (72ee28986220e3a3e24b3590298262f9)
+2021-02-07 11:22:33 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:22:34 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:29:43 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (426c933c24d99db095e873a505bc2c92)
+2021-02-07 11:29:43 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:29:44 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:33:14 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (583fe5088fc194675403a9060c6821d2)
+2021-02-07 11:33:14 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:33:17 INFO  SelUtility:40 - Salesforce  is launched
+2021-02-07 11:47:02 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (dadcc1cf086b7bca83637faa382ca0e5)
+2021-02-07 11:47:02 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:47:03 INFO  SelUtility:65 - Salesforce  is launched
+2021-02-07 11:59:16 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (5359e441ccb4cfe466ce554284b59646)
+2021-02-07 11:59:16 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 11:59:17 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 12:04:21 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (24ac852209eb40abc3f240e8c6269019)
+2021-02-07 12:04:21 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 12:04:25 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 12:41:27 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (c2c8090c108cad0229643a3e255ac387)
+2021-02-07 12:41:27 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 12:41:28 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 12:42:52 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (44e8627134a981045f6e617d4a9129af)
+2021-02-07 12:42:52 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 12:42:53 INFO  SelUtility:49 - Salesforce  is launched
+2021-02-07 12:59:09 INFO  LoginPageFeatures:27 - ChromeDriver: chrome on WINDOWS (e9562d81a9cc877aa7bae9415bb3f2bc)
+2021-02-07 12:59:09 INFO  LoginPageFeatures:28 - App is launching
+2021-02-07 12:59:11 INFO  SelUtility:49 - Salesforce  is launched
+2021-02-07 13:06:11 INFO  LoginPageFeatures:27 - ChromeDriver: chrome on WINDOWS (9c7a6c5e5e4984f4d6dc08ea927b2d1a)
+2021-02-07 13:06:11 INFO  LoginPageFeatures:28 - App is launching
+2021-02-07 13:06:12 INFO  SelUtility:49 - Salesforce  is launched
+2021-02-07 13:08:25 INFO  LoginPageFeatures:29 - ChromeDriver: chrome on WINDOWS (a2dc09df74323debbebb8855f9312c8f)
+2021-02-07 13:08:25 INFO  LoginPageFeatures:30 - App is launching
+2021-02-07 13:08:26 INFO  LoginPageFeatures:27 - ChromeDriver: chrome on WINDOWS (c7e7136845c50d4930b117e228db306f)
+2021-02-07 13:08:26 INFO  LoginPageFeatures:28 - App is launching
+2021-02-07 13:08:28 INFO  SelUtility:49 - Salesforce  is launched
+2021-02-07 13:10:23 INFO  LoginPageFeatures:27 - ChromeDriver: chrome on WINDOWS (281c39bc782bebdb13785a3a9c50c9e1)
+2021-02-07 13:10:23 INFO  LoginPageFeatures:28 - App is launching
+2021-02-07 13:10:24 INFO  SelUtility:49 - Salesforce  is launched
+2021-02-07 16:05:53 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:05:53 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (22096c505dcbd9657faeb78abf86cb62)
+2021-02-07 16:05:53 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:09:02 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:09:02 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (117c3dec6e8f39e40de5ac09062b1fdb)
+2021-02-07 16:09:02 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:11:14 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:11:14 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (ba11e6ccc55f98d8c611a07fa4f598b5)
+2021-02-07 16:11:14 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:11:23 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:11:23 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (efbb3a2d42263f4a16c62a9d7872f792)
+2021-02-07 16:11:23 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:11:34 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:11:34 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (3e7c5c09667df84d7417850d49617e58)
+2021-02-07 16:11:34 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:11:38 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:11:38 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (094b558f442684069a30da9b392591f0)
+2021-02-07 16:11:38 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:11:50 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:11:50 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (94056fc7df7e6e34089cecdbc053bda7)
+2021-02-07 16:11:50 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:17:26 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:17:26 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (00eb4f371d3f2e7ddf70de7ac92b5786)
+2021-02-07 16:17:26 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:17:38 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:17:38 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (46da58d5d757174d9774dad6ca47ad94)
+2021-02-07 16:17:38 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:17:49 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:17:49 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (18724cc07c353892e757ce14638f42e4)
+2021-02-07 16:17:49 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:17:53 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:17:53 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (c0df5e9bcb2abe13b8442ab0349ac97a)
+2021-02-07 16:17:53 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:18:06 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:18:06 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (1f2c8b265e0970ccabf7aa0bd1935557)
+2021-02-07 16:18:06 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:36:52 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:36:52 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (9e6ea6562a4c8d698f78f0eacdce61c8)
+2021-02-07 16:36:52 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 16:42:17 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 16:42:17 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (dc58c471149268df7e543c6994be6611)
+2021-02-07 16:42:17 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:10:40 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:10:40 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (2f0d5d2685f5d1677dfa15b2a6400ac2)
+2021-02-07 18:10:40 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:11:49 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:11:49 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (620cf18f405943dd67f6861d13e9d5bf)
+2021-02-07 18:11:49 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:12:01 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:12:01 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (a1d3b57b39cf9fcfa2df9d72f1022c16)
+2021-02-07 18:12:01 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:12:10 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:12:10 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (5a2e1b16b06bf9a6f1880df6e2ad401d)
+2021-02-07 18:12:10 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:12:14 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:12:14 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (9ae7eb1fb335dec7b39f4f7d9271541a)
+2021-02-07 18:12:14 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:12:29 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:12:29 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (00420373d52e9ade2ba2837553a0e434)
+2021-02-07 18:12:29 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:17:28 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:17:28 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (a093c603566139ab2e224859a0e07ece)
+2021-02-07 18:17:28 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:17:33 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:17:33 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (a9aa8a21766df8f6f1aafba50efc2f5a)
+2021-02-07 18:17:33 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:17:37 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:17:37 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (fa6b2a7a0b609e0a75744205855206f5)
+2021-02-07 18:17:37 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:17:43 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:17:43 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (8fa6e3fb7fdf2f1415be422d1b2b5d1b)
+2021-02-07 18:17:43 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:17:55 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:17:55 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (29fd01cdd92aabcf79f24a3e678d4e04)
+2021-02-07 18:17:55 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:21:39 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:21:39 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (2ffd6382827244efe74c788257dde64b)
+2021-02-07 18:21:39 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:21:46 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:21:46 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (d52e95107e8c28785d35f5e51b9e1216)
+2021-02-07 18:21:46 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:21:52 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:21:52 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (e567ef97dc0fb334f17a6fb2c2a4a97e)
+2021-02-07 18:21:52 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:21:58 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:21:58 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (e9e7cfdfa848e37c753697ecc94e3b64)
+2021-02-07 18:21:58 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:22:12 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:22:12 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (899db0cb5ba0c7cae5a2b0977e19a13f)
+2021-02-07 18:22:12 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:27:24 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:27:24 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (12c93764949054d0f74db962e7091848)
+2021-02-07 18:27:24 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:27:31 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:27:31 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (c220205f70f218417059e6df08e13858)
+2021-02-07 18:27:31 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:27:35 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:27:35 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (4eda531ea47939eb129334bbedac84ef)
+2021-02-07 18:27:35 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:27:41 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:27:41 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (76c89f08828069d6ab2df99275aa75fa)
+2021-02-07 18:27:41 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:27:53 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:27:53 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (1930e8f3fe511b29a901d3a860fb5910)
+2021-02-07 18:27:53 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:30:29 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:30:29 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (2da035a3419bb7f1176260947860e2d1)
+2021-02-07 18:30:29 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:31:14 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:31:14 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (fb808dc9102929cbfd6bba19b43f90d3)
+2021-02-07 18:31:14 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:32:38 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:32:38 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (6746f4aa37f4187facdac4fd32814bd7)
+2021-02-07 18:32:38 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:34:35 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:34:35 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (33612792d6f0d8ff7d9db67000eee9a0)
+2021-02-07 18:34:35 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 18:35:11 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 18:35:11 INFO  LoginPageFeatures:32 - ChromeDriver: chrome on WINDOWS (09c8d40e0173a37b6949d0fc2ab140bd)
+2021-02-07 18:35:11 INFO  LoginPageFeatures:33 - App is launching
+2021-02-07 20:13:25 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 20:13:25 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (595620bcc56ec8e388a0873559a9a1f2)
+2021-02-07 20:13:25 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:17:33 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 20:17:33 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (51e36a13fa96a8fff545f8cbceb4c915)
+2021-02-07 20:17:33 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:26:40 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 20:26:40 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (dedbaa633032bbf1fac271d2f51f8bc0)
+2021-02-07 20:26:40 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:28:58 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 20:28:58 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (f66a64319d7e1b0e4e76c9651bf4347a)
+2021-02-07 20:28:58 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:30:00 INFO  SelUtility:51 - Salesforce  is launched
+2021-02-07 20:30:00 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (df1802c743f3f870a6de2937059db737)
+2021-02-07 20:30:00 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:51:50 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 20:51:50 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (4a272209dda7186330d3c52e6704e37b)
+2021-02-07 20:51:50 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:52:05 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 20:52:05 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (93e08d72316c907337124d5b985e5e3b)
+2021-02-07 20:52:05 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:53:26 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 20:53:26 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (bd8639b1b7aa9c273e94d88464874a90)
+2021-02-07 20:53:26 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:53:40 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 20:53:40 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (95ae9d0e876b30cfd9de7dc9a12562a8)
+2021-02-07 20:53:40 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:55:52 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 20:55:52 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (0bf7ea253f7daebeee84b7bd96c47cbe)
+2021-02-07 20:55:52 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 20:56:06 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 20:56:06 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (2750c597a1a93ecff213b551e8b08ca2)
+2021-02-07 20:56:06 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 21:17:41 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 21:17:41 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (62e30ebae8fa31523fc2ba7b89dd1b13)
+2021-02-07 21:17:41 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 21:17:57 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 21:17:57 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (f36d7cbe809b8f34f2cd63a38992dbc9)
+2021-02-07 21:17:57 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 21:19:53 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 21:19:53 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (659215a8ed7b55041b8f215f53ad5d48)
+2021-02-07 21:19:53 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 21:20:10 INFO  SelUtility:52 - Salesforce  is launched
+2021-02-07 21:20:10 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (e16d397d9ea2e5d19f57b3fbc6170495)
+2021-02-07 21:20:10 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 22:11:45 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 22:11:45 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (db0c9b05ada96f531d54d690ec3b76d4)
+2021-02-07 22:11:45 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 22:20:15 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 22:20:15 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (c01fecc06d6c5dd5dd222e0539da77b1)
+2021-02-07 22:20:15 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 22:29:24 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 22:29:24 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (8bbedf7e4f76da01b14673f3c31c47fc)
+2021-02-07 22:29:24 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 22:38:55 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 22:38:55 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (3b8f5e4ff375da1f2d349ec0fe676496)
+2021-02-07 22:38:55 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:04:30 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:04:30 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (22e8f7efa66c486fb437352b62bb26b0)
+2021-02-07 23:04:30 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:07:22 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:07:23 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (3029193b8df73ea39c2af822c8982659)
+2021-02-07 23:07:23 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:08:53 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:08:53 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (9e7f3fd08f2ff406b53da6e4c84e19e7)
+2021-02-07 23:08:53 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:11:33 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:11:33 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (f3357908512b15672f5d53227cd2a25c)
+2021-02-07 23:11:33 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:16:04 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:16:04 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (8c4ec51c52cac9206ab4d62b8f46082d)
+2021-02-07 23:16:04 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:19:55 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:19:55 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (d75944937b654a27eeda22771e2c5101)
+2021-02-07 23:19:55 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:22:14 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:22:14 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (90ab2642138ea3c71864ed223d00d024)
+2021-02-07 23:22:14 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:26:23 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:26:23 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (18d634387f7ed4285aa8ef5933757323)
+2021-02-07 23:26:23 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:28:20 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:28:20 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (b5c1cae2a869e39c170436f9cd311ff7)
+2021-02-07 23:28:20 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:53:25 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:53:25 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (4c5dd01e7fddae3501cb4eca8f00d04b)
+2021-02-07 23:53:25 INFO  LeadPageFeatures:26 - App is launching
+2021-02-07 23:55:13 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-07 23:55:13 INFO  LeadPageFeatures:25 - ChromeDriver: chrome on WINDOWS (d4a57b02b73ab56bf731045587707d36)
+2021-02-07 23:55:13 INFO  LeadPageFeatures:26 - App is launching
+2021-02-08 00:10:36 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 00:10:36 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (05795e43ce16949d8e0f89992e0eccd0)
+2021-02-08 00:10:36 INFO  LeadPageFeatures:25 - App is launching
+2021-02-08 01:11:53 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:11:53 INFO  LoginPageFeatures:28 - ChromeDriver: chrome on WINDOWS (06237e698a0894a80988cb82b12615b3)
+2021-02-08 01:11:53 INFO  LoginPageFeatures:29 - App is launching
+2021-02-08 01:12:00 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:12:00 INFO  LoginPageFeatures:28 - ChromeDriver: chrome on WINDOWS (475ddd70a0c08d0d8a50b4b0a30ad277)
+2021-02-08 01:12:00 INFO  LoginPageFeatures:29 - App is launching
+2021-02-08 01:12:05 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:12:05 INFO  LoginPageFeatures:28 - ChromeDriver: chrome on WINDOWS (bea383c0e639070195eedb6f92442c2b)
+2021-02-08 01:12:05 INFO  LoginPageFeatures:29 - App is launching
+2021-02-08 01:12:11 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:12:11 INFO  LoginPageFeatures:28 - ChromeDriver: chrome on WINDOWS (0fce69cd8247a2ef387906f9507edf3f)
+2021-02-08 01:12:11 INFO  LoginPageFeatures:29 - App is launching
+2021-02-08 01:12:25 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:12:25 INFO  LoginPageFeatures:28 - ChromeDriver: chrome on WINDOWS (8ff1f1762f32ce4417ca141d90155d55)
+2021-02-08 01:12:25 INFO  LoginPageFeatures:29 - App is launching
+2021-02-08 01:12:55 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:12:55 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (43f1a3d336f1dccaa640a0e52c902845)
+2021-02-08 01:12:55 INFO  LeadPageFeatures:25 - App is launching
+2021-02-08 01:13:23 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:13:23 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (f200fc9cdd924d3f900857a80040ca13)
+2021-02-08 01:13:23 INFO  LeadPageFeatures:25 - App is launching
+2021-02-08 01:13:37 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:13:37 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (5c4af5deff13f3a2f5dafbc999ccd172)
+2021-02-08 01:13:37 INFO  LeadPageFeatures:25 - App is launching
+2021-02-08 01:13:57 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:13:57 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (6e40ccc847e0f2db9825e119b421d045)
+2021-02-08 01:13:57 INFO  LeadPageFeatures:25 - App is launching
+2021-02-08 01:14:13 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-08 01:14:13 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (872e7fb6ee68839d3e9b014d86cf8648)
+2021-02-08 01:14:13 INFO  LeadPageFeatures:25 - App is launching

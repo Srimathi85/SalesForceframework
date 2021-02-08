@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FrameworkSalesForce">
+    <test name="com.salesforce.loginpage.LeadFunctionality">
+        <classes>
+            <class name="com.salesforce.testcases.LeadPageFeatures">
+             <methods>
+                <include name="checkLeadsNew_TC24"/>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
