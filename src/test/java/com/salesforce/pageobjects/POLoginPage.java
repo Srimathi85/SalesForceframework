@@ -93,7 +93,8 @@ WebElement ph_actualErrorMsg;
 public boolean invaildLogin(String sUserName,String sPassWord,String sExpectedErrorMessage) throws Exception {
     boolean bRes_Flag=false;
     loginToSalesForce(sUserName,sPassWord);
-    oSelUtility.verifyStrings(ph_actualErrorMsg.getText(),sExpectedErrorMessage,"Password Error message");
+    Assert.assertEquals(ph_actualErrorMsg.getText(),sExpectedErrorMessage);
+    //oSelUtility.verifyStrings(ph_actualErrorMsg.getText(),sExpectedErrorMessage,"Password Error message");
     bRes_Flag=true;
     return bRes_Flag;
 }

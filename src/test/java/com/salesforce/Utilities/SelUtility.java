@@ -20,6 +20,7 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.Set;
 
 public class SelUtility extends TestBase {
     public static WebDriver driver;
@@ -48,13 +49,13 @@ public WebDriver launchApp(){
     public  void goToWebPage(String webURL){
     driverWeb=oWebDriManager.getWebDriver();
         System.out.println("-------"+driverWeb);
-        //String webUrl="https://login.salesforce.com";
         driverWeb.get(webURL);
         log.info("Salesforce  is launched");
     }
     public   void closeBrowser(){
         driverWeb.close();
         extentTest.info("Browser is closed");
+        log.info("Salesforce  is closed");
     }
 
     public void launchBrowser(String webUrl) throws IOException {
@@ -157,5 +158,13 @@ public WebDriver launchApp(){
         FileUtils.copyFile(sourceFile, destFile);
         extentTest.info("Screenshot is captured ");
         return destPath;
+    }
+    public String switchWindow(String sCurrentWindowID, Set<String > windowsIDSet){
+        String sNewWindowID="";
+        for (String sWindowID:windowsIDSet) {
+            if(!sWindowID.equals(sCurrentWindowID)){
+                sNewWindowID=sWindowID;
+            }
+        }return sNewWindowID;
     }
 }

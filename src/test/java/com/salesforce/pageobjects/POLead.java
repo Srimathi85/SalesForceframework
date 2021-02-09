@@ -5,9 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
-
-import java.io.IOException;
 import java.util.Set;
 
 public class POLead extends TestBase {
@@ -30,17 +27,6 @@ public class POLead extends TestBase {
     WebElement allTab;
     @FindBy(xpath = "//a[@href='/00Q/o']")
     WebElement leads;
-
-    public void openLeadPage(String sUserName,String sPassWord) throws IOException {
-        oSelUtility.waitForElementVisible(ph_username, 5,driver);
-        oSelUtility.sendInput(ph_username,sUserName,"UserName");
-        oSelUtility.sendInput(ph_password,sPassWord,"password");
-        oSelUtility.clickOnElement(button_login,"Login");
-        oSelUtility.waitForElementVisible(tab_Home, 5,driver);
-        oSelUtility.verifyStrings(driver.getTitle(),oComUtility.readPropertiesFile("Page_Title","home.title"),"Home Page");
-        oSelUtility.clickOnElement(allTab,"All tab");
-
-    }
     public void openLead(String sUserName,String sPassWord) throws Exception {
      oPOLoginPage.loginToSalesForce(sUserName, sPassWord);
         oSelUtility.waitForElementVisible(tab_Home, 5,driver);
@@ -76,16 +62,11 @@ public class POLead extends TestBase {
     oSelUtility.selectOptionInDropDown(viewTab,oComUtility.readPropertiesFile("Leads_Data","optionToSelect"));
     oSelUtility.verifySelectedItemInDropDown(viewTab,oComUtility.readPropertiesFile("Leads_Data","optionToSelect"),oComUtility.readPropertiesFile("Leads_Data","optionToSelect"));
     oSelUtility.clickOnElement(userMenu,"User Menu");
-    String currentWindow=driver.getWindowHandle(),newWindow="";
+    String sCurrentWindow=driver.getWindowHandle();
     oSelUtility.clickOnElement(logout,"Logout");
     Set<String> windowsList=driver.getWindowHandles();
-    for (String window:windowsList) {
-        if(!window.equals(currentWindow)){
-            newWindow=window;
-        }
-    }
-    driver.switchTo().window(newWindow);
-    //oPOLoginPage.loginToSalesForce(sUserName, sPassWord);
+    String sNewWindow= oSelUtility.switchWindow(sCurrentWindow,windowsList);
+    driver.switchTo().window(sNewWindow);
     openLead(sUserName, sPassWord);
     oSelUtility.waitForElementVisible(goButton,5,driver);
     oSelUtility.clickOnElement(goButton,"Go Button");

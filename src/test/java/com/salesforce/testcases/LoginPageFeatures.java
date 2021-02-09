@@ -1,5 +1,6 @@
 package com.salesforce.testcases;
 import com.salesforce.TestDataProvider.Dataprovider;
+import com.salesforce.Utilities.CustomListener;
 import com.salesforce.Utilities.TestBase;
 import com.salesforce.pageobjects.POLoginPage;
 import org.apache.log4j.Logger;
@@ -8,31 +9,20 @@ import org.testng.annotations.*;
 
 import java.io.IOException;
 import java.lang.reflect.Method;
+@Listeners(CustomListener.class)
 public class LoginPageFeatures extends TestBase {
     POLoginPage oPOLoginPage;
     Logger log=Logger.getLogger(getClass().getSimpleName());
-    //@BeforeTest
-    //public void settingDependency() throws IOException {
-      //  oPOLoginPage=new POLoginPage(driverWeb);
-    //}
-
    @BeforeMethod
    public void launchBrowserApplication(Method testName) throws IOException {
-      // oWebDriManager.launchApp(sBrowser);
        driverWeb=oSelUtility.launchApp();
-       //oSelUtility.launchApp(oComUtility.readPropertiesFile("Login_properties","sfdc.webUrl"));
-
-       oPOLoginPage=new POLoginPage(driverWeb);
+          oPOLoginPage=new POLoginPage(driverWeb);
         oSelUtility.goToWebPage(oComUtility.readPropertiesFile("Login_properties","sfdc.webUrl"));
        System.out.println("Driver****"+driverWeb.getTitle());
        log.info(driverWeb);
        log.info("App is launching");
-       //oSelUtility.goToWebPage(oComUtility.readPropertiesFile("Login_properties","sfdc.webUrl"));
-        oSelUtility.createReport(testName.getName());
-
-   //oCommonUtility.launchBrowser(readPropertiesFile("Login_properties","sfdc.webUrl"));
-
-    }
+       oSelUtility.createReport(testName.getName());
+ }
     @AfterMethod
     public void closeBrowserApplication(){
         oSelUtility.closeBrowser();
