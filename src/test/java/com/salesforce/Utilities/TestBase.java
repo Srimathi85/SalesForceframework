@@ -21,7 +21,7 @@ public class TestBase {
 @BeforeSuite
  public void manageDependency() throws Exception {
     oComUtility.loadLog4jProperty(System.getProperty("user.dir") + "/testresources/testdata/log4j.properties");
-    sConfig = CommonUtility.readFileReturnInString(System.getProperty("user.dir") + "/testresources/testdata/config.json");
+    sConfig = CommonUtility.readFileReturnInString(System.getProperty("user.dir") + "/resources/testdata/config.json");
     sAutomation = JsonPath.read(sConfig, "automation");
     BasicConfigurator.configure();
     if (sAutomation.toLowerCase().equals("web"))
@@ -33,7 +33,7 @@ public class TestBase {
 @AfterSuite
     public void terminateApp() {
     if(sAutomation.toLowerCase().equals("web")){
-        //oSelUtility.quitApp();
+        oSelUtility.quitApp();
     }
 }
 }

@@ -27,12 +27,13 @@ public class POLoginPage  extends TestBase {
     @FindBy(id="home_Tab")
     WebElement tab_Home;
 
-       public void loginToSalesForce(String sUserName,String sPassWord) throws Exception{
+       public boolean loginToSalesForce(String sUserName,String sPassWord) throws Exception{
 
         oSelUtility.waitForElementVisible(ph_username, 5,driver);
         oSelUtility.sendInput(ph_username,sUserName,"UserName");
         oSelUtility.sendInput(ph_password,sPassWord,"password");
         oSelUtility.clickOnElement(button_login,"Login");
+        return oSelUtility.verifyStrings(driver.getTitle(),oComUtility.readPropertiesFile("Page_Title","home.title"),"Home Page");
     }
     public boolean validLoginToSalesForce(String sUserName,String sPassWord) throws IOException {
         boolean bRes_Flag=false;
@@ -93,10 +94,9 @@ WebElement ph_actualErrorMsg;
 public boolean invaildLogin(String sUserName,String sPassWord,String sExpectedErrorMessage) throws Exception {
     boolean bRes_Flag=false;
     loginToSalesForce(sUserName,sPassWord);
-    Assert.assertEquals(ph_actualErrorMsg.getText(),sExpectedErrorMessage);
+    return oSelUtility.verifyStrings(ph_actualErrorMsg.getText(),sExpectedErrorMessage,"Error Message");
     //oSelUtility.verifyStrings(ph_actualErrorMsg.getText(),sExpectedErrorMessage,"Password Error message");
-    bRes_Flag=true;
-    return bRes_Flag;
+
 }
 
 }

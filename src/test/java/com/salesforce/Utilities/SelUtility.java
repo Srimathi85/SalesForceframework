@@ -112,13 +112,18 @@ public WebDriver launchApp(){
             extentTest.fail(dropdownName + " is  not displayed");}
         extentTest.addScreenCaptureFromPath(addScreenshot());
     }
-    public void verifyStrings(String actualText,String expectedText,String elementName) throws IOException {
+    public boolean verifyStrings(String actualText,String expectedText,String elementName) throws IOException {
 
         if(!actualText.equalsIgnoreCase(expectedText)){
             extentTest.fail(elementName+" is not displayed");
             extentTest.addScreenCaptureFromPath(addScreenshot());
+            log.info(elementName+" is not displayed");
+            return false;
         }
-        else extentTest.pass(elementName+" is  displayed");
+        else {extentTest.pass(elementName+" is  displayed");
+        log.info(elementName+" is displayed");
+        return true;
+        }
     }
     public  void verifySelectedItemInDropDown(WebElement element,String targetItem,String message){
         Select select = new Select(element);

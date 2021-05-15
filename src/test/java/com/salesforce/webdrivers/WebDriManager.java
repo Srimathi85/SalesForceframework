@@ -5,7 +5,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class WebDriManager implements IDriverManager {
+public class WebDriManager implements IDriverManager,IWebDriver {
    public WebDriver driver;
     public void launchApp(String sBrowser) {
         if (sBrowser.toLowerCase().equals("chrome")) {

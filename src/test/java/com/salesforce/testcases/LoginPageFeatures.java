@@ -4,6 +4,7 @@ import com.salesforce.Utilities.CustomListener;
 import com.salesforce.Utilities.TestBase;
 import com.salesforce.pageobjects.POLoginPage;
 import org.apache.log4j.Logger;
+import org.testng.Assert;
 import org.testng.annotations.*;
 
 
@@ -33,7 +34,7 @@ public class LoginPageFeatures extends TestBase {
     }
     @Test(dataProvider = "invalid_loginData",dataProviderClass = Dataprovider.class)
     public void loginError_Testcase1(String sUsername,String sPassword,String sExpectedErrorMessage) throws Exception {
-        oPOLoginPage.invaildLogin(sUsername, sPassword, sExpectedErrorMessage);
+        Assert.assertTrue(oPOLoginPage.invaildLogin(sUsername, sPassword, sExpectedErrorMessage));
     }
     @Test(dataProvider = "valid_loginData",dataProviderClass = Dataprovider.class)
     public void loginSFDC_Testcase2(String username,String password) throws Exception {

@@ -355,3 +355,78 @@ Salesforce  is launched
 2021-02-08 18:33:47 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (d1e40d019e8e90a5eb583a9db0590fe5)
 2021-02-08 18:33:47 INFO  LoginPageFeatures:23 - App is launching
 2021-02-08 18:33:50 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-09 10:05:47 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-09 10:05:47 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (deec99356567513302dc2b2e03fce0e7)
+2021-02-09 10:05:47 INFO  LoginPageFeatures:23 - App is launching
+2021-02-09 10:05:51 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-09 10:05:54 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-09 10:05:54 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (728a36ad88e35325c8eb87f909cd5029)
+2021-02-09 10:05:54 INFO  LoginPageFeatures:23 - App is launching
+2021-02-09 10:05:57 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-09 10:06:02 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-09 10:06:02 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (3deb3d00ac1a7b2b530bb5b33dbc8d98)
+2021-02-09 10:06:02 INFO  LoginPageFeatures:23 - App is launching
+2021-02-09 10:06:04 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-09 10:06:07 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-09 10:06:07 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (ea103769f2e1dd6205e890703b771044)
+2021-02-09 10:06:07 INFO  LoginPageFeatures:23 - App is launching
+2021-02-09 10:06:25 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-09 10:06:28 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-09 10:06:28 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (e5e26ba0d8f6bf164cda0506a29f3710)
+2021-02-09 10:06:28 INFO  LoginPageFeatures:23 - App is launching
+2021-02-09 10:06:37 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:12:34 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:12:34 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (0760872fe504187f61804b77e1649aef)
+2021-02-10 18:12:34 INFO  LoginPageFeatures:23 - App is launching
+2021-02-10 18:12:44 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:12:47 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:12:47 INFO  LoginPageFeatures:22 - ChromeDriver: chrome on WINDOWS (94963dbef8350f7ce1ed06bcb12528cb)
+2021-02-10 18:12:47 INFO  LoginPageFeatures:23 - App is launching
+2021-02-10 18:13:06 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:13:06 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (c6cf6d6d731cd4d45b2f91e0eab9f9ea)
+2021-02-10 18:13:06 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:13:34 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:16:00 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:16:00 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (d9ab1bd8e851cb7bad06611eca04acdd)
+2021-02-10 18:16:00 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:16:34 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:19:24 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:19:24 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (e31b8f933238c32e2ce28da796514543)
+2021-02-10 18:19:24 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:19:50 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:19:55 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:19:55 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (2c4ab60b0ef42bb13f2742a98a73c024)
+2021-02-10 18:19:55 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:20:07 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:20:10 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:20:10 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (ca14608b798252ba84177b56bc590499)
+2021-02-10 18:20:10 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:20:34 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:20:38 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:20:38 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (55350d36651fee1fa89f1b0af07af65b)
+2021-02-10 18:20:38 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:20:49 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:20:52 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:20:52 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (efc8c10b11ba2b75a4daa9b84d9285f7)
+2021-02-10 18:20:52 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:21:06 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:29:23 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:29:23 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (744d90cb6d31e98cfe07bdf772034d1d)
+2021-02-10 18:29:23 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:29:51 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:29:54 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:29:54 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (8d0f706b8f31dcb1779503f8b3984b01)
+2021-02-10 18:29:54 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:30:08 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:30:14 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:30:14 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (f15b4ed35cd835b4dcd228aa954a2b9b)
+2021-02-10 18:30:14 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:30:35 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:30:38 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:30:38 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (f825e6df706138b175b57728abe24de6)
+2021-02-10 18:30:38 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:30:50 INFO  SelUtility:58 - Salesforce  is closed
+2021-02-10 18:30:53 INFO  SelUtility:53 - Salesforce  is launched
+2021-02-10 18:30:53 INFO  LeadPageFeatures:24 - ChromeDriver: chrome on WINDOWS (6fe87ed49fe21ce9a6e824cfd0560dd6)
+2021-02-10 18:30:53 INFO  LeadPageFeatures:25 - App is launching
+2021-02-10 18:31:10 INFO  SelUtility:58 - Salesforce  is closed

@@ -3,7 +3,9 @@ package com.salesforce.testcases;
 import com.salesforce.TestDataProvider.Dataprovider;
 import com.salesforce.Utilities.TestBase;
 import com.salesforce.pageobjects.POLead;
+import com.salesforce.pageobjects.POLoginPage;
 import org.apache.log4j.Logger;
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
@@ -14,6 +16,7 @@ import java.lang.reflect.Method;
 
 public class LeadPageFeatures extends TestBase {
     POLead oPOLead;
+    POLoginPage oPOLoginPage;
     Logger log=Logger.getLogger(getClass().getSimpleName());
     @BeforeMethod
     public void launchBrowserApplication(Method testName) throws IOException {
@@ -24,6 +27,7 @@ public class LeadPageFeatures extends TestBase {
         log.info(driverWeb);
         log.info("App is launching");
         oSelUtility.createReport(testName.getName());
+        //Assert.assertTrue(oPOLoginPage,"");
     }
     @AfterMethod
     public void closeBrowserApplication(){
